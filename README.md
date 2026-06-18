@@ -5,6 +5,7 @@ Eine kleine Todo-Webanwendung zur Verwaltung von Aufgaben.
 - Aufgaben hinzufügen
 - Aufgaben löschen
 - Speicherung mit Localstorage
+- Responsive Benutzeroberfläche
 
 ## Technologien
 - HTML
